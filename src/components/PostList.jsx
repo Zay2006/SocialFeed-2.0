@@ -12,3 +12,6 @@ function PostList({ posts, onLike, onComment }) {
 }
 
 export default PostList;
+
+
+
