@@ -71,3 +71,6 @@ function Post({ post, onLike, onComment }) {
 }
 
 export default Post;
+
+
+
